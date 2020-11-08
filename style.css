@@ -40,3 +40,10 @@ h2 {
   right: 50px;
   top: 150px;
 }
+.cantaffordprinter {
+  font-family: 'Courier New', Courier, monospace;
+  color: red;
+  position: absolute;
+  right: 50px;
+  top: 130px;
+}
